@@ -1,2 +1,2 @@
-# Trabalho-3-de-teoria-da-computa-o-e-compiladores
-Construção de um AFN em Python
+# Link do vídeo do AFN
+[Construção de um AFN em Python](https://youtu.be/nRCPfi5oBoY)
